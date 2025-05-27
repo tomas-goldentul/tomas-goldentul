@@ -8,8 +8,10 @@
 tomas-goldentul/tomas-goldentul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+- **Lenguajes de Programación**:  
+  - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  - ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+  - ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 
-![GitHub followers](https://img.shields.io/github/followers/TuUsuario?style=social)
-![GitHub stars](https://img.shields.io/github/stars/TuUsuario?style=social)
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
