@@ -27,7 +27,7 @@
 
 ## 📚 Proyectos destacados
 
-- [**Mi primer proyecto web**](https://github.com/TuUsuario/ProyectoWeb)
+- [**Mi primer proyecto web**](https://github.com/tomas-goldentul/Tp_03_Musica))
 - [**Proyecto en C# con .NET**](https://github.com/TuUsuario/ProyectoCSharp)
 
 ## 💬 Conecta conmigo
