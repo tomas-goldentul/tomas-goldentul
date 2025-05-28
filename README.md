@@ -31,10 +31,6 @@ Aplicación básica para practicar diseño y estructura de una página musical c
 
 ---
 
-## 🐍 Snake de contribuciones
-
-![Snake animation](https://github.com/**TuUsuario**/**TuUsuario**/blob/output/github-contribution-grid-snake.svg)
-
 ---
 
 ## 🐱 Bonus: Buenas vibras codificando
