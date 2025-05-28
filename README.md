@@ -21,13 +21,13 @@ Aplicación básica para practicar diseño y estructura de una página musical c
 
 ## 📊 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=**TuUsuario**&show_icons=true&count_private=true&hide=prs&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=**tomas-goldentul**&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ---
 
 ## 🔍 Lenguajes más usados
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=**TuUsuario**&layout=compact&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=**tomas-goldentul**&layout=compact&theme=radical)
 
 ---
 
