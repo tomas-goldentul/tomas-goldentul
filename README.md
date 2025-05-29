@@ -33,10 +33,6 @@ Aplicación básica para practicar diseño y estructura de una página musical c
 
 ---
 
-## 🐱 Bonus: Buenas vibras codificando
 
-![Gato feliz](https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif)
-
----
 
 > 💡 *"El código es poesía, y cada línea es una oportunidad para crear algo asombroso."*
