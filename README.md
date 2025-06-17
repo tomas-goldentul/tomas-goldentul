@@ -5,7 +5,6 @@
 
 ## 🧠 Lenguajes de Programación
 
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 - ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 - ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 - ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
@@ -35,4 +34,3 @@ Aplicación básica para practicar diseño y estructura de una página musical c
 
 
 
-> 💡 *"El código es poesía, y cada línea es una oportunidad para crear algo asombroso."*
