@@ -10,12 +10,7 @@
 
 ---
 
-## 📚 Proyectos destacados
 
-🔹 [**Mi primer proyecto web**](https://github.com/tomas-goldentul/Tp_03_Musica)  
-Aplicación básica para practicar diseño y estructura de una página musical con HTML, CSS y C#.
-
----
 
 ## 📊 Estadísticas de GitHub
 
