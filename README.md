@@ -27,14 +27,9 @@
 
 Algunos proyectos en los que trabajé:
 
-🔹 **Juego del Ahorcado**  
-Proyecto en C# con ASP.NET MVC.
+🔹 **Keepi**  
+Proyecto en C# con ASP.NET MVC. Sistema de gestión con SQL Server.
 
-🔹 **Base de Datos Biblioteca**  
-Sistema de gestión con SQL Server.
-
-🔹 **Sistema ORT-Gourmet**  
-Base de datos para gestión de restaurante.
 
 ---
 
