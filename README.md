@@ -1,30 +1,59 @@
+# 👋 Hola, soy Tomás Goldentul
 
-
----
-
-## 🧠 Lenguajes de Programación
-
-- ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-- ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-- ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+💻 Estudiante de Informática  
+🚀 Apasionado por la programación y el desarrollo de software  
+📚 Actualmente aprendiendo y desarrollando proyectos con **C# y desarrollo web**
 
 ---
 
+## 🛠️ Tecnologías que uso
 
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+## 📚 Actualmente aprendiendo
+
+- Desarrollo web
+- ASP.NET Core
+- Bases de datos SQL Server
+- Buenas prácticas de programación
+
+---
+
+## 🚧 Proyectos
+
+Algunos proyectos en los que trabajé:
+
+🔹 **Juego del Ahorcado**  
+Proyecto en C# con ASP.NET MVC.
+
+🔹 **Base de Datos Biblioteca**  
+Sistema de gestión con SQL Server.
+
+🔹 **Sistema ORT-Gourmet**  
+Base de datos para gestión de restaurante.
+
+---
 
 ## 📊 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tomas-goldentul&show_icons=true&count_private=true&hide=prs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tomas-goldentul&show_icons=true&theme=radical)
 
 ---
 
-## 🔍 Lenguajes más usados
+## 🧠 Lenguajes más usados
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tomas-goldentul&layout=compact&theme=radical)
-
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomas-goldentul&layout=compact&theme=radical)
 
 ---
 
+## 📫 Contacto
 
+💼 GitHub: https://github.com/tomas-goldentul
 
+---
+
+⭐ Siempre aprendiendo algo nuevo.
