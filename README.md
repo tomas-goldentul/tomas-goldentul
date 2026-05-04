@@ -2,7 +2,7 @@
 
 💻 Estudiante de Informática  
 🚀 Apasionado por la programación y el desarrollo de software  
-📚 Actualmente aprendiendo y desarrollando proyectos con **C# y desarrollo web**
+📚 Actualmente aprendiendo y desarrollando proyectos con **JS y C#
 
 ---
 
@@ -20,6 +20,8 @@
 - ASP.NET Core
 - Bases de datos SQL Server
 - Buenas prácticas de programación
+- Node.js
+- React
 
 ---
 
